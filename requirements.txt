@@ -1,0 +1,5 @@
+python-dotenv
+langchain
+crewai
+duckduckgo-search
+setuptools
